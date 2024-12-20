@@ -15,6 +15,6 @@
     "url": "https://github.com/Fingbel/FingTools"
   },
   "dependencies": {
-    "com.fingcorp.fingtools": "git+https://github.com/Fingbel/FingTools.git#v1.0.0"
+    "com.fingcorp.fingtools": "https://github.com/Fingbel/FingTools.git"
   }
 }

@@ -1,0 +1,20 @@
+{
+  "name": "com.fingcorp.fingtiledimporter",
+  "version": "1.0.0",
+  "displayName": "Fingbel's Tiled Importer",
+  "description": "Importer tool for Tiled and Limezu's assets",
+  "unity": "2022.3",
+  "keywords": [
+    "unity",
+    "plugin",
+    "assets"
+  ],
+  "author": {
+    "name": "Fingbel",
+    "email": "fingbel@gmail.com",
+    "url": "https://github.com/Fingbel/FingTools"
+  },
+  "dependencies": {
+    "com.fingcorp.fingtools" : "https://github.com/Fingbel/FingTools.git"
+  }
+}

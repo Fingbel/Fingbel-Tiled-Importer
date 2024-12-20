@@ -1,0 +1,16 @@
+{
+    "name": "FingbelTiledImporterEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6f54f20fe92bc5d4d8be303ce5c9636e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
